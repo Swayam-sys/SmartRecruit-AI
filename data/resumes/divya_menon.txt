@@ -1,0 +1,21 @@
+Name: Divya Menon
+Email: divya.menon@email.com
+
+SUMMARY
+Data analyst with Python experience focused on data wrangling, visualisation,
+and basic ML model building. Limited backend API experience.
+
+SKILLS
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Excel, SQL (basic), Jupyter
+
+EXPERIENCE
+Data Analyst — Analytics Firm (2022–Present)
+- Cleaned and analysed datasets of 1M+ records using Pandas
+- Built dashboards using Matplotlib and Tableau
+- Trained classification models using Scikit-learn
+
+Intern — Research Lab (2021)
+- Assisted in statistical analysis using Python and R
+
+EDUCATION
+B.Sc Statistics — Madras University, 2021

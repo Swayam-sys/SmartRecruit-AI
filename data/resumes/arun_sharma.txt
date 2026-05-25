@@ -1,0 +1,27 @@
+Name: Arun Sharma
+Email: arun.sharma@email.com | LinkedIn: linkedin.com/in/arunsharma
+
+SUMMARY
+Python developer with 3 years of experience building REST APIs and data pipelines.
+Strong background in FastAPI, PostgreSQL, and cloud deployments.
+
+SKILLS
+Python, FastAPI, Django, PostgreSQL, MongoDB, Docker, Git, REST APIs, Redis, Celery
+
+EXPERIENCE
+Backend Developer — TechCorp India (2021–Present)
+- Built and deployed 15+ REST APIs using FastAPI serving 50k+ daily requests
+- Migrated legacy Django monolith to microservices using Docker and Kubernetes
+- Designed MongoDB schemas for unstructured data storage
+- Wrote unit and integration tests using pytest (90% coverage)
+
+Junior Developer — StartupXYZ (2020–2021)
+- Developed internal tools using Python and PostgreSQL
+- Automated reporting pipelines using Pandas and Celery
+
+EDUCATION
+B.Tech Computer Science — VIT Chennai, 2020
+
+CERTIFICATIONS
+- AWS Certified Developer Associate
+- MongoDB Associate Developer

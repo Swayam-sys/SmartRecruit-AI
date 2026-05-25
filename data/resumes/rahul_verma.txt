@@ -1,0 +1,29 @@
+Name: Rahul Verma
+Email: rahul.verma@email.com
+
+SUMMARY
+Backend developer with 4 years of experience in Python, Django, and cloud infrastructure.
+Strong focus on API design, database optimisation, and CI/CD.
+
+SKILLS
+Python, Django, Django REST Framework, PostgreSQL, Redis, Docker, Kubernetes,
+GitHub Actions, AWS (EC2, RDS, S3), Pytest, Celery
+
+EXPERIENCE
+Senior Backend Developer — FinTech Startup (2020–Present)
+- Led backend architecture for a payments platform handling 100k+ transactions/day
+- Designed RESTful APIs consumed by web and mobile clients
+- Set up CI/CD pipelines using GitHub Actions and Docker
+- Managed PostgreSQL databases with query optimisation and indexing strategies
+- Mentored a team of 3 junior developers
+
+Backend Developer — Enterprise Corp (2019–2020)
+- Built internal admin tools using Django and PostgreSQL
+- Integrated third-party financial data APIs
+
+EDUCATION
+B.Tech Computer Science — NIT Trichy, 2019
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- Docker Certified Associate

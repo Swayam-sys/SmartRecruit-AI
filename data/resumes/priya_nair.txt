@@ -1,0 +1,22 @@
+Name: Priya Nair
+Email: priya.nair@email.com
+
+SUMMARY
+Full-stack developer with 2 years of experience. Comfortable with React frontend
+and Node.js/Python backends. Exploring AI/ML integrations.
+
+SKILLS
+Python, JavaScript, React, Node.js, Express, MySQL, basic Docker, Git
+
+EXPERIENCE
+Full Stack Developer — WebAgency (2022–Present)
+- Built customer-facing dashboards using React and Python Flask APIs
+- Integrated third-party payment and SMS APIs
+- Maintained MySQL databases and wrote stored procedures
+
+Intern — IT Solutions Ltd (2021–2022)
+- Created Python scripts for data scraping and cleaning
+- Helped maintain legacy PHP codebase
+
+EDUCATION
+B.E. Information Technology — Anna University, 2021

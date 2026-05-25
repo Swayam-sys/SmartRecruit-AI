@@ -1,0 +1,25 @@
+Job Title: Python Backend Developer
+
+About the Role:
+We are looking for a skilled Python Backend Developer to join our engineering team.
+You will design, build, and maintain scalable server-side applications and APIs.
+
+Responsibilities:
+- Design and implement RESTful APIs using FastAPI or Django REST Framework
+- Work with relational and NoSQL databases (PostgreSQL, MongoDB)
+- Write clean, testable, and well-documented code
+- Collaborate with frontend engineers and DevOps teams
+- Participate in code reviews and architectural discussions
+
+Required Skills:
+- 2+ years of Python development experience
+- Strong knowledge of REST API design principles
+- Experience with PostgreSQL or MongoDB
+- Familiarity with Docker and CI/CD pipelines
+- Understanding of OOP and design patterns
+
+Nice to Have:
+- Experience with LangChain, OpenAI APIs, or LLM-based applications
+- Knowledge of vector databases (FAISS, Chroma)
+- FastAPI experience
+- Prior work in agentic AI or automation pipelines

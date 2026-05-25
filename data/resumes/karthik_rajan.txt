@@ -1,0 +1,28 @@
+Name: Karthik Rajan
+Email: karthik.rajan@email.com
+
+SUMMARY
+AI/ML engineer with hands-on experience in LLMs, LangChain, vector databases,
+and building agentic pipelines. Passionate about AI-powered applications.
+
+SKILLS
+Python, LangChain, OpenAI API, FAISS, Chroma, FastAPI, Pandas, NumPy,
+Docker, PostgreSQL, Git, Streamlit
+
+EXPERIENCE
+AI Engineer — DataMinds (2022–Present)
+- Built end-to-end RAG pipelines using LangChain + FAISS for enterprise search
+- Integrated OpenAI GPT-4 APIs into production FastAPI services
+- Designed agentic workflows using LangGraph and AutoGen frameworks
+- Used Chroma as vector store for document retrieval systems
+
+Python Developer — Infotech Solutions (2021–2022)
+- Developed REST APIs in FastAPI and deployed via Docker on AWS
+- Optimised PostgreSQL queries reducing latency by 40%
+
+EDUCATION
+B.Tech Artificial Intelligence — SRM University, 2021
+
+CERTIFICATIONS
+- DeepLearning.AI LangChain for LLM Application Development
+- OpenAI API Developer Certification
